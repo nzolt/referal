@@ -1,0 +1,71 @@
+
+Start-Date: 2019-11-22  11:23:26
+Commandline: apt install curl
+Install: libssh2-1:amd64 (1.8.0-2.1, automatic), libkrb5-3:amd64 (1.17-3, automatic), libgssapi-krb5-2:amd64 (1.17-3, automatic), libnghttp2-14:amd64 (1.36.0-2+deb10u1, automatic), publicsuffix:amd64 (20190415.1030-1, automatic), libsasl2-modules-db:amd64 (2.1.27+dfsg-1, automatic), libcurl4:amd64 (7.64.0-4, automatic), libldap-2.4-2:amd64 (2.4.47+dfsg-3+deb10u1, automatic), openssl:amd64 (1.1.1d-0+deb10u2, automatic), libpsl5:amd64 (0.20.2-2, automatic), libk5crypto3:amd64 (1.17-3, automatic), libsasl2-2:amd64 (2.1.27+dfsg-1, automatic), krb5-locales:amd64 (1.17-3, automatic), librtmp1:amd64 (2.4+20151223.gitfa8646d.1-2, automatic), libsasl2-modules:amd64 (2.1.27+dfsg-1, automatic), libkrb5support0:amd64 (1.17-3, automatic), libldap-common:amd64 (2.4.47+dfsg-3+deb10u1, automatic), libkeyutils1:amd64 (1.6-6, automatic), ca-certificates:amd64 (20190110, automatic), curl:amd64 (7.64.0-4)
+End-Date: 2019-11-22  11:23:31
+
+Start-Date: 2019-11-22  11:24:01
+Commandline: apt install mc
+Install: mc:amd64 (3:4.8.22-1), xdg-user-dirs:amd64 (0.17-2, automatic), perl-modules-5.28:amd64 (5.28.1-6, automatic), netbase:amd64 (5.6, automatic), mime-support:amd64 (3.62, automatic), mc-data:amd64 (3:4.8.22-1, automatic), libmagic1:amd64 (1:5.35-4+deb10u1, automatic), libperl5.28:amd64 (5.28.1-6, automatic), libmagic-mgc:amd64 (1:5.35-4+deb10u1, automatic), libgdbm6:amd64 (1.18.1-4, automatic), xz-utils:amd64 (5.2.4-1, automatic), shared-mime-info:amd64 (1.10-1, automatic), unzip:amd64 (6.0-23+deb10u1, automatic), bzip2:amd64 (1.0.6-9.2~deb10u1, automatic), libgpm2:amd64 (1.20.7-5, automatic), libglib2.0-data:amd64 (2.58.3-2+deb10u2, automatic), file:amd64 (1:5.35-4+deb10u1, automatic), perl:amd64 (5.28.1-6, automatic), libgdbm-compat4:amd64 (1.18.1-4, automatic), libglib2.0-0:amd64 (2.58.3-2+deb10u2, automatic), libslang2:amd64 (2.3.2-2, automatic)
+End-Date: 2019-11-22  11:24:13
+
+Start-Date: 2019-11-22  11:28:21
+Commandline: apt install mc -y
+Install: libssh2-1:amd64 (1.8.0-2.1, automatic), mc:amd64 (3:4.8.22-1), xdg-user-dirs:amd64 (0.17-2, automatic), perl-modules-5.28:amd64 (5.28.1-6, automatic), netbase:amd64 (5.6, automatic), mime-support:amd64 (3.62, automatic), mc-data:amd64 (3:4.8.22-1, automatic), libmagic1:amd64 (1:5.35-4+deb10u1, automatic), libperl5.28:amd64 (5.28.1-6, automatic), libmagic-mgc:amd64 (1:5.35-4+deb10u1, automatic), libgdbm6:amd64 (1.18.1-4, automatic), xz-utils:amd64 (5.2.4-1, automatic), shared-mime-info:amd64 (1.10-1, automatic), unzip:amd64 (6.0-23+deb10u1, automatic), bzip2:amd64 (1.0.6-9.2~deb10u1, automatic), libgpm2:amd64 (1.20.7-5, automatic), libglib2.0-data:amd64 (2.58.3-2+deb10u2, automatic), file:amd64 (1:5.35-4+deb10u1, automatic), perl:amd64 (5.28.1-6, automatic), libgdbm-compat4:amd64 (1.18.1-4, automatic), libglib2.0-0:amd64 (2.58.3-2+deb10u2, automatic), libslang2:amd64 (2.3.2-2, automatic)
+End-Date: 2019-11-22  11:28:34
+
+Start-Date: 2020-02-05  14:11:03
+Commandline: apt install composer
+Install: php-composer-semver:amd64 (1.4.2-1, automatic), php-symfony-debug:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), php-symfony-console:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), php-composer-spdx-licenses:amd64 (1.3.0-1, automatic), php-cli-prompt:amd64 (1.0.3+dfsg-1, automatic), php-composer-ca-bundle:amd64 (1.1.0-1, automatic), php-symfony-filesystem:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), php-symfony-finder:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), jsonlint:amd64 (1.7.1-1, automatic), php-psr-log:amd64 (1.0.2-1, automatic), php-symfony-polyfill-mbstring:amd64 (1.6.0-2, automatic), php-json-schema:amd64 (5.2.6-1, automatic), composer:amd64 (1.6.3-1), php-symfony-process:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic)
+End-Date: 2020-02-05  14:11:04
+
+Start-Date: 2020-02-05  14:49:33
+Commandline: apt install composer
+Install: php-composer-semver:amd64 (1.4.2-1, automatic), php-symfony-debug:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), php-symfony-console:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), php-composer-spdx-licenses:amd64 (1.3.0-1, automatic), php-cli-prompt:amd64 (1.0.3+dfsg-1, automatic), php-composer-ca-bundle:amd64 (1.1.0-1, automatic), php-symfony-filesystem:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), php-symfony-finder:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), jsonlint:amd64 (1.7.1-1, automatic), php-psr-log:amd64 (1.0.2-1, automatic), php-symfony-polyfill-mbstring:amd64 (1.6.0-2, automatic), php-json-schema:amd64 (5.2.6-1, automatic), composer:amd64 (1.6.3-1), php-symfony-process:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic)
+End-Date: 2020-02-05  14:49:35
+
+Start-Date: 2020-02-05  16:22:36
+Commandline: apt -y install php7.4
+Install: php7.4-cli:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, automatic), libaprutil1:amd64 (1.6.1-2, automatic), php7.4-json:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, automatic), php7.4:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2), libaprutil1-dbd-sqlite3:amd64 (1.6.1-2, automatic), ssl-cert:amd64 (1.0.39, automatic), apache2-data:amd64 (2.4.29-1ubuntu4.11, automatic), php7.4-opcache:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, automatic), libapr1:amd64 (1.6.3-2, automatic), libaprutil1-ldap:amd64 (1.6.1-2, automatic), libpcre2-8-0:amd64 (10.34-7+ubuntu18.04.1+deb.sury.org+1, automatic), php7.4-readline:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, automatic), liblua5.2-0:amd64 (5.2.4-1.1build1, automatic), apache2-bin:amd64 (2.4.29-1ubuntu4.11, automatic), apache2:amd64 (2.4.29-1ubuntu4.11, automatic), apache2-utils:amd64 (2.4.29-1ubuntu4.11, automatic), libapache2-mod-php7.4:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, automatic)
+End-Date: 2020-02-05  16:22:46
+
+Start-Date: 2020-02-05  16:28:31
+Commandline: apt install php7.4-fpm
+Install: php7.4-fpm:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2)
+End-Date: 2020-02-05  16:28:33
+
+Start-Date: 2020-02-05  16:51:03
+Commandline: apt install mc
+Install: libssh2-1:amd64 (1.8.0-2.1, automatic), mc:amd64 (3:4.8.22-1), xdg-user-dirs:amd64 (0.17-2, automatic), perl-modules-5.28:amd64 (5.28.1-6, automatic), netbase:amd64 (5.6, automatic), mime-support:amd64 (3.62, automatic), mc-data:amd64 (3:4.8.22-1, automatic), libmagic1:amd64 (1:5.35-4+deb10u1, automatic), libperl5.28:amd64 (5.28.1-6, automatic), libmagic-mgc:amd64 (1:5.35-4+deb10u1, automatic), libgdbm6:amd64 (1.18.1-4, automatic), xz-utils:amd64 (5.2.4-1, automatic), shared-mime-info:amd64 (1.10-1, automatic), unzip:amd64 (6.0-23+deb10u1, automatic), bzip2:amd64 (1.0.6-9.2~deb10u1, automatic), libgpm2:amd64 (1.20.7-5, automatic), libglib2.0-data:amd64 (2.58.3-2+deb10u2, automatic), file:amd64 (1:5.35-4+deb10u1, automatic), perl:amd64 (5.28.1-6, automatic), libgdbm-compat4:amd64 (1.18.1-4, automatic), libglib2.0-0:amd64 (2.58.3-2+deb10u2, automatic), libslang2:amd64 (2.3.2-2, automatic)
+End-Date: 2020-02-05  16:51:11
+
+Start-Date: 2020-02-05  16:52:51
+Commandline: apt install php7.4-mysql
+Install: php7.4-mysql:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2)
+End-Date: 2020-02-05  16:52:52
+
+Start-Date: 2020-02-05  20:53:13
+Commandline: apt install php7.4-mbstring
+Install: php7.4-mbstring:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2), libonig4:amd64 (6.7.0-1, automatic)
+End-Date: 2020-02-05  20:53:14
+
+Start-Date: 2020-02-06  07:02:40
+Commandline: apt install php7.4-xml
+Install: php7.4-xml:amd64 (7.4.2-6+ubuntu18.04.1+deb.sury.org+1)
+Upgrade: php7.4-bz2:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1), php7.4-cli:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1), php7.4-fpm:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1), php7.4-json:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1), php7.4-opcache:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1), php7.4-zip:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1), php7.4-mysql:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1), php7.4-mbstring:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1), php7.4-readline:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1), php7.4-common:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1), libapache2-mod-php7.4:amd64 (7.4.2-5+ubuntu18.04.1+deb.sury.org+2, 7.4.2-6+ubuntu18.04.1+deb.sury.org+1)
+End-Date: 2020-02-06  07:03:07
+
+Start-Date: 2020-02-07  15:44:12
+Commandline: apt install php7.4-gd
+Install: php7.4-gd:amd64 (7.4.2-6+ubuntu18.04.1+deb.sury.org+1)
+End-Date: 2020-02-07  15:44:13
+
+Start-Date: 2020-04-20  10:29:19
+Commandline: apt install mc
+Install: libssh2-1:amd64 (1.8.0-2.1, automatic), mc:amd64 (3:4.8.22-1), xdg-user-dirs:amd64 (0.17-2, automatic), perl-modules-5.28:amd64 (5.28.1-6, automatic), netbase:amd64 (5.6, automatic), mime-support:amd64 (3.62, automatic), mc-data:amd64 (3:4.8.22-1, automatic), libmagic1:amd64 (1:5.35-4+deb10u1, automatic), libperl5.28:amd64 (5.28.1-6, automatic), libmagic-mgc:amd64 (1:5.35-4+deb10u1, automatic), libgdbm6:amd64 (1.18.1-4, automatic), xz-utils:amd64 (5.2.4-1, automatic), shared-mime-info:amd64 (1.10-1, automatic), unzip:amd64 (6.0-23+deb10u1, automatic), bzip2:amd64 (1.0.6-9.2~deb10u1, automatic), libgpm2:amd64 (1.20.7-5, automatic), libglib2.0-data:amd64 (2.58.3-2+deb10u2, automatic), file:amd64 (1:5.35-4+deb10u1, automatic), perl:amd64 (5.28.1-6, automatic), libgdbm-compat4:amd64 (1.18.1-4, automatic), libglib2.0-0:amd64 (2.58.3-2+deb10u2, automatic), libslang2:amd64 (2.3.2-2, automatic)
+End-Date: 2020-04-20  10:29:37
+
+Start-Date: 2020-04-20  10:34:29
+Commandline: apt install composer
+Install: php-composer-semver:amd64 (1.4.2-1, automatic), php-symfony-debug:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), php-symfony-console:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), php-composer-spdx-licenses:amd64 (1.3.0-1, automatic), php-cli-prompt:amd64 (1.0.3+dfsg-1, automatic), php-composer-ca-bundle:amd64 (1.1.0-1, automatic), php-symfony-filesystem:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), php-symfony-finder:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic), jsonlint:amd64 (1.7.1-1, automatic), php-psr-log:amd64 (1.0.2-1, automatic), php-symfony-polyfill-mbstring:amd64 (1.6.0-2, automatic), php-json-schema:amd64 (5.2.6-1, automatic), composer:amd64 (1.6.3-1), php-symfony-process:amd64 (3.4.6+dfsg-1ubuntu0.1, automatic)
+End-Date: 2020-04-20  10:34:31

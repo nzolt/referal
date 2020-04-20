@@ -1,0 +1,47 @@
+version: '3.3'
+
+services:
+
+  nginx-ref:
+    container_name: nginx-ref
+    hostname: ref
+    build: ./docker/images/nginx
+    networks:
+      - dev-ref
+    ports:
+      - 90:80
+    volumes:
+      - ./src:/var/www/src
+      - ./.logs/ref:/var/log
+      - ./docker/images/nginx/etc/nginx/conf.d:/etc/nginx/conf.d
+
+  php-ref:
+    container_name: php-ref
+    build: ./docker/images/php
+    networks:
+      - dev-ref
+    volumes:
+      - ./.logs/ref:/var/log
+      - ./src:/var/www/src
+    restart: unless-stopped
+
+  mysql-ref:
+    container_name: mysql-ref
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: refpass
+      MYSQL_DATABASE: ref
+      MYSQL_USER: ref
+      MYSQL_PASSWORD: refpass
+    ports:
+      - 3308:3306
+    volumes:
+      - ./.data/ref/mysql:/var/lib/mysql
+    restart: unless-stopped
+    networks:
+      - dev-ref
+
+networks:
+  dev-ref:
+    driver: bridge
+
