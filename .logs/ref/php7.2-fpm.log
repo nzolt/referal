@@ -3,3 +3,6 @@
 [20-Apr-2020 10:24:53] NOTICE: systemd monitor interval set to 10000ms
 [20-Apr-2020 10:26:35] NOTICE: Terminating ...
 [20-Apr-2020 10:26:35] NOTICE: exiting, bye-bye!
+[20-Apr-2020 10:27:36] NOTICE: fpm is running, pid 10
+[20-Apr-2020 10:27:36] NOTICE: ready to handle connections
+[20-Apr-2020 10:27:36] NOTICE: systemd monitor interval set to 10000ms

@@ -14,5 +14,14 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
+Route::get('client', 'ClientController@index')->name('addIndex');
+Route::get('client/refer', 'ClientController@referGet')->name('addClient');
+Route::post('client/create', 'ClientController@create')->name('addIndex');
+Route::get('client/accept/{id}', 'ClientController@accept')->name('accept');
+Route::get('client/reject/{id}', 'ClientController@reject')->name('reject');
+
+Route::get('clients/refered', 'ClientsController@refered')->name('referedClients');
+Route::get('clients/accepted', 'ClientsController@accepted')->name('acceptedClients');
+Route::get('clients/rejected', 'ClientsController@rejected')->name('rejectedClients');
